@@ -4,7 +4,7 @@ Code Explanation
 • 	If text is available, it reads the whole string and stores it in .
 • 	Then it prints back the message with the word “Input:” in front of it.
 
-🔧 In Plain Words
+In summary:
 This code lets you type something into the Arduino Serial Monitor, and the Arduino will echo it back to you with a label.
 Example:
 If you type , the Serial Monitor will show:
